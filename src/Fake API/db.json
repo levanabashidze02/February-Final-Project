@@ -1,0 +1,301 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Fullstack Developer",
+      "description": "Passionate Fullstack Developer sought, with a robust background in the modern JS stack. Proficient in React and Node, adept at bringing creative solutions to complex problems. Excited about creating seamless user experiences. Join our team in Berlin for a full-time role. As a Fullstack Developer, you will play a pivotal role in architecting and implementing innovative solutions. Collaborate with a dynamic team to tackle challenges and contribute to the continuous improvement of our tech stack. If you thrive in a fast-paced environment and love pushing the boundaries of web development, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Berlin",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 55000
+    },
+    {
+      "id": "2",
+      "title": "Frontend Developer",
+      "description": "Experienced Frontend Developer specializing in the modern JS stack with a focus on React. Dedicated to crafting visually appealing and responsive user interfaces. Passionate about enhancing user experiences. Join our team in Madrid for a full-time role. As a Frontend Developer, you will be instrumental in creating intuitive and visually stunning interfaces. Work closely with designers and backend developers to ensure seamless integration. Leverage your expertise to optimize performance and user engagement. If you are enthusiastic about front-end technologies and enjoy turning design concepts into reality, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Madrid",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 65000
+    },
+    {
+      "id": "3",
+      "title": "Backend Developer",
+      "description": "Results-driven Backend Developer with expertise in the modern JS stack, particularly Node. Skilled in creating robust and scalable server-side applications. Committed to delivering high-quality solutions. Join our team in Amsterdam for a full-time role. As a Backend Developer, you will take on the challenge of building scalable and efficient server-side applications. Collaborate with cross-functional teams to develop and maintain cutting-edge solutions. Your contributions will directly impact the performance and reliability of our systems. If you are passionate about backend development and enjoy tackling complex problems, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Amsterdam",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 75000
+    },
+    {
+      "id": "4",
+      "title": "DevOps Engineer",
+      "description": "Detail-oriented DevOps Engineer experienced in Docker and Kubernetes. Adept at streamlining deployment processes and ensuring system reliability. Dedicated to optimizing infrastructure for efficiency. Join our team in Cairo for a part-time role. As a DevOps Engineer, you will play a crucial role in streamlining our deployment processes and enhancing system reliability. Collaborate with the development and IT teams to implement efficient solutions. Your expertise in Docker and Kubernetes will contribute to the optimization of our infrastructure. If you are passionate about DevOps and enjoy working in a dynamic environment, we would love to have you on board.",
+      "employment_type": "Part time",
+      "location": "Cairo",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 45000
+    },
+    {
+      "id": "5",
+      "title": "UI/UX Designer",
+      "description": "Creative UI/UX Designer skilled in wireframe tools such as Wireframe.cc and InVision. Passionate about translating ideas into visually appealing and user-friendly designs. Committed to enhancing user experiences. Join our team in Alexandria for a full-time role. As a UI/UX Designer, you will be at the forefront of creating visually appealing and user-friendly designs. Utilize your skills in wireframing tools to bring concepts to life. Collaborate with cross-functional teams to ensure a seamless user experience. If you are enthusiastic about UI/UX design and enjoy the creative process, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Alexandria",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 60000
+    },
+    {
+      "id": "6",
+      "title": "Data Warehouse Engineer",
+      "description": "Data Warehouse Engineer proficient in Spark SQL and Hive. Experienced in writing complex queries and scripts for efficient data processing. Committed to optimizing data workflows for better insights. Join our team in Berlin for a full-time role. As a Data Warehouse Engineer, you will leverage your proficiency in Spark SQL and Hive to drive efficient data processing. Craft complex queries and scripts to optimize data workflows. Collaborate with data scientists and analysts to deliver valuable insights. If you have a passion for data engineering and are dedicated to optimizing data processes, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Berlin",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 70000
+    },
+    {
+      "id": "7",
+      "title": "IT Administrator",
+      "description": "Seasoned IT Administrator with expertise in systems planning, security principles, and software management best practices. Committed to implementing solutions for enhanced system efficiency and security. Join our team in Amsterdam for a part-time role. As an IT Administrator, you will apply your seasoned expertise to systems planning, security, and software management. Implement best practices to enhance system efficiency and security. Collaborate with IT teams to address challenges and implement solutions. If you are a seasoned IT professional dedicated to system optimization, we want to hear from you.",
+      "employment_type": "Part time",
+      "location": "Amsterdam",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 50000
+    },
+    {
+      "id": "8",
+      "title": "IT Recruiter",
+      "description": "Experienced IT Recruiter well-versed in various selection processes, including phone interviews and reference checks. Dedicated to identifying and onboarding top talent for organizational success. Join our team in Madrid for a part-time role. As an IT Recruiter, you will play a crucial role in identifying and onboarding top talent. Conduct phone interviews, reference checks, and use your expertise to build a talented workforce. Collaborate with HR and hiring managers to understand recruitment needs. If you are passionate about recruitment and enjoy building high-performing teams, we want to meet you.",
+      "employment_type": "Part time",
+      "location": "Madrid",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 55000
+    },
+    {
+      "id": "9",
+      "title": "HR Specialist",
+      "description": "HR Specialist with in-depth knowledge of HR policies and systems. Dedicated to fostering a positive work environment and ensuring compliance with HR regulations. Committed to employee well-being. Join our team in Alexandria for a full-time role. As an HR Specialist, you will bring your in-depth knowledge of HR policies and systems to foster a positive work environment. Ensure compliance with HR regulations and champion employee well-being. Collaborate with leadership to implement HR strategies. If you are passionate about HR and dedicated to creating a positive workplace, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Alexandria",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 65000
+    },
+    {
+      "id": "10",
+      "title": "Scrum Master",
+      "description": "Agile Scrum Master experienced in facilitating the software development lifecycle. Skilled in removing impediments and ensuring efficient collaboration within cross-functional teams. Committed to delivering high-quality products. Join our team in Cairo for a full-time role. As a Scrum Master, you will use your agile expertise to facilitate the software development lifecycle. Remove impediments and ensure efficient collaboration within cross-functional teams. Committed to delivering high-quality products, you will play a crucial role in our development process. If you are passionate about agile methodologies and enjoy driving teams towards success, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Cairo",
+      "logo": "https://venturebeat.com/wp-content/uploads/2016/06/netflix-logo.png?fit=400%2C400&strip=all",
+      "salary": 75000
+    },
+    {
+      "id": "11",
+      "title": "Graphic Designer",
+      "description": "Creative Graphic Designer with a passion for the software development lifecycle. Proficient in translating concepts into visually stunning designs. Dedicated to delivering impactful and memorable visual content. Join our team in Cairo for a full-time role. As a Graphic Designer, you will channel your creativity into visually stunning designs. Translate concepts into impactful and memorable visual content. Collaborate with cross-functional teams to bring design concepts to life. If you are passionate about graphic design and enjoy contributing to the creative process, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Cairo",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 60000
+    },
+    {
+      "id": "12",
+      "title": "Fullstack Developer",
+      "description": "Passionate Fullstack Developer sought, with a strong background in the modern JS stack. Proficient in React and Node, adept at bringing creative solutions to complex problems. Excited about creating seamless user experiences. Join our team in Cairo for a full-time role. As a Fullstack Developer, you will be a key player in architecting and implementing innovative solutions. Collaborate with a dynamic team to tackle challenges and contribute to the continuous improvement of our tech stack. If you thrive in a fast-paced environment and love pushing the boundaries of web development, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Cairo",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 55000
+    },
+    {
+      "id": "13",
+      "title": "Frontend Developer",
+      "description": "Experienced Frontend Developer specializing in the modern JS stack with a focus on React. Dedicated to crafting visually appealing and responsive user interfaces. Passionate about enhancing user experiences. Join our team in Berlin for a full-time role. As a Frontend Developer, you will be instrumental in creating intuitive and visually stunning interfaces. Work closely with designers and backend developers to ensure seamless integration. Leverage your expertise to optimize performance and user engagement. If you are enthusiastic about front-end technologies and enjoy turning design concepts into reality, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Berlin",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 65000
+    },
+    {
+      "id": "14",
+      "title": "Backend Developer",
+      "description": "Results-driven Backend Developer with expertise in the modern JS stack, particularly Node. Skilled in creating robust and scalable server-side applications. Committed to delivering high-quality solutions. Join our team in Amsterdam for a full-time role. As a Backend Developer, you will take on the challenge of building scalable and efficient server-side applications. Collaborate with cross-functional teams to develop and maintain cutting-edge solutions. Your contributions will directly impact the performance and reliability of our systems. If you are passionate about backend development and enjoy tackling complex problems, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Amsterdam",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 75000
+    },
+    {
+      "id": "15",
+      "title": "DevOps Engineer",
+      "description": "Detail-oriented DevOps Engineer experienced in Docker and Kubernetes. Adept at streamlining deployment processes and ensuring system reliability. Dedicated to optimizing infrastructure for efficiency. Join our team in Madrid for a part-time role. As a DevOps Engineer, you will play a crucial role in streamlining our deployment processes and enhancing system reliability. Collaborate with the development and IT teams to implement efficient solutions. Your expertise in Docker and Kubernetes will contribute to the optimization of our infrastructure. If you are passionate about DevOps and enjoy working in a dynamic environment, we would love to have you on board.",
+      "employment_type": "Part time",
+      "location": "Madrid",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 45000
+    },
+    {
+      "id": "16",
+      "title": "UI/UX Designer",
+      "description": "Creative UI/UX Designer skilled in wireframe tools such as Wireframe.cc and InVision. Passionate about translating ideas into visually appealing and user-friendly designs. Committed to enhancing user experiences. Join our team in Mumbai for a full-time role. As a UI/UX Designer, you will be at the forefront of creating visually appealing and user-friendly designs. Utilize your skills in wireframing tools to bring concepts to life. Collaborate with cross-functional teams to ensure a seamless user experience. If you are enthusiastic about UI/UX design and enjoy the creative process, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Mumbai",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 60000
+    },
+    {
+      "id": "18",
+      "title": "Data Warehouse Engineer",
+      "description": "Data Warehouse Engineer proficient in Spark SQL and Hive. Experienced in writing complex queries and scripts for efficient data processing. Committed to optimizing data workflows for better insights. Join our team in Berlin for a full-time role. As a Data Warehouse Engineer, you will leverage your proficiency in Spark SQL and Hive to drive efficient data processing. Craft complex queries and scripts to optimize data workflows. Collaborate with data scientists and analysts to deliver valuable insights. If you have a passion for data engineering and are dedicated to optimizing data processes, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Berlin",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 70000
+    },
+    {
+      "id": "19",
+      "title": "IT Administrator",
+      "description": "Seasoned IT Administrator with expertise in systems planning, security principles, and software management best practices. Committed to implementing solutions for enhanced system efficiency and security. Join our team in Kaspi for a part-time role. As an IT Administrator, you will apply your seasoned expertise to systems planning, security, and software management. Implement best practices to enhance system efficiency and security. Collaborate with IT teams to address challenges and implement solutions. If you are a seasoned IT professional dedicated to system optimization, we want to hear from you.",
+      "employment_type": "Part time",
+      "location": "Kaspi",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 50000
+    },
+    {
+      "id": "20",
+      "title": "IT Recruiter",
+      "description": "Experienced IT Recruiter well-versed in various selection processes, including phone interviews and reference checks. Dedicated to identifying and onboarding top talent for organizational success. Join our team in Moscow for a part-time role. As an IT Recruiter, you will play a crucial role in identifying and onboarding top talent. Conduct phone interviews, reference checks, and use your expertise to build a talented workforce. Collaborate with HR and hiring managers to understand recruitment needs. If you are passionate about recruitment and enjoy building high-performing teams, we want to meet you.",
+      "employment_type": "Part time",
+      "location": "Moscow",
+      "logo": "https://asset.brandfetch.io/idc9NFJ8Dy/id1-8dsqSW.jpeg",
+      "salary": 55000
+    },
+    {
+      "id": "21",
+      "title": "HR Specialist",
+      "description": "HR Specialist with in-depth knowledge of HR policies and systems. Dedicated to fostering a positive work environment and ensuring compliance with HR regulations. Committed to employee well-being. Join our team in Barcelona for a full-time role. As an HR Specialist, you will bring your in-depth knowledge of HR policies and systems to foster a positive work environment. Ensure compliance with HR regulations and champion employee well-being. Collaborate with leadership to implement HR strategies. If you are passionate about HR and dedicated to creating a positive workplace, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Barcelona",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 65000
+    },
+    {
+      "id": "22",
+      "title": "Scrum Master",
+      "description": "Agile Scrum Master experienced in facilitating the software development lifecycle. Skilled in removing impediments and ensuring efficient collaboration within cross-functional teams. Committed to delivering high-quality products. Join our team in Beijing for a full-time role. As a Scrum Master, you will use your agile expertise to facilitate the software development lifecycle. Remove impediments and ensure efficient collaboration within cross-functional teams. Committed to delivering high-quality products, you will play a crucial role in our development process. If you are passionate about agile methodologies and enjoy driving teams towards success, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Beijing",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 75000
+    },
+    {
+      "id": "23",
+      "title": "Graphic Designer",
+      "description": "Creative Graphic Designer with a passion for the software development lifecycle. Proficient in translating concepts into visually stunning designs. Dedicated to delivering impactful and memorable visual content. Join our team in Tokyo for a full-time role. As a Graphic Designer, you will channel your creativity into visually stunning designs. Translate concepts into impactful and memorable visual content. Collaborate with cross-functional teams to bring design concepts to life. If you are passionate about graphic design and enjoy contributing to the creative process, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Tokyo",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 60000
+    },
+    {
+      "id": "24",
+      "title": "Fullstack Developer",
+      "description": "Passionate Fullstack Developer with a robust background in the modern JS stack. Proficient in React and Node, I bring creative solutions to complex problems. Excited about creating seamless user experiences. Join our team in Kyoto for a full-time role. As a Fullstack Developer, you will leverage your skills in React and Node to craft innovative solutions. Collaborate with cross-functional teams to enhance product functionality. If you are passionate about full-stack development and eager to contribute to user-centric experiences, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Kyoto",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 55000
+    },
+    {
+      "id": "25",
+      "title": "Frontend Developer",
+      "description": "Experienced Frontend Developer specializing in the modern JS stack with a focus on React. Dedicated to crafting visually appealing and responsive user interfaces. Passionate about enhancing user experiences. Join our team in Istanbul for a full-time role. As a Frontend Developer, you will bring your expertise in React to create visually stunning and responsive interfaces. Collaborate with UX designers to elevate user experiences. If you are enthusiastic about front-end development and committed to user-centric design, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Istanbul",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 65000
+    },
+    {
+      "id": "26",
+      "title": "Backend Developer",
+      "description": "Results-driven Backend Developer with expertise in the modern JS stack, particularly Node. Skilled in creating robust and scalable server-side applications. Committed to delivering high-quality solutions. Join our team in Berlin for a full-time role. As a Backend Developer, you will use your expertise in Node to create robust and scalable server-side applications. Collaborate with front-end developers to deliver seamless user experiences. If you are results-driven and dedicated to high-quality development, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Berlin",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 75000
+    },
+    {
+      "id": "27",
+      "title": "DevOps Engineer",
+      "description": "Detail-oriented DevOps Engineer experienced in Docker and Kubernetes. Adept at streamlining deployment processes and ensuring system reliability. Dedicated to optimizing infrastructure for efficiency. Join our team in Athens for a part-time role. As a DevOps Engineer, you will bring your detail-oriented approach to streamline deployment processes. Ensure system reliability and optimize infrastructure for efficiency. Collaborate with development teams to enhance the overall development lifecycle. If you are passionate about DevOps and system optimization, we want to hear from you.",
+      "employment_type": "Part time",
+      "location": "Athens",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 45000
+    },
+    {
+      "id": "28",
+      "title": "UI/UX Designer",
+      "description": "Creative UI/UX Designer skilled in wireframe tools such as Wireframe.cc and InVision. Passionate about translating ideas into visually appealing and user-friendly designs. Committed to enhancing user experiences. Join our team in Budapest for a full-time role. As a UI/UX Designer, you will use your creativity to craft visually appealing and user-friendly designs. Collaborate with development teams to bring design concepts to life. If you are dedicated to enhancing user experiences through design, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Budapest",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 60000
+    },
+    {
+      "id": "29",
+      "title": "Data Warehouse Engineer",
+      "description": "Data Warehouse Engineer proficient in Spark SQL and Hive. Experienced in writing complex queries and scripts for efficient data processing. Committed to optimizing data workflows for better insights. Join our team in Brighton for a full-time role. As a Data Warehouse Engineer, you will leverage your proficiency in Spark SQL and Hive to optimize data workflows. Write complex queries and scripts for efficient data processing. Collaborate with data scientists to deliver valuable insights. If you are passionate about data engineering, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Brighton",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 70000
+    },
+    {
+      "id": "30",
+      "title": "IT Administrator",
+      "description": "Seasoned IT Administrator with expertise in systems planning, security principles, and software management best practices. Committed to implementing solutions for enhanced system efficiency and security. Join our team in Karlsruhe for a part-time role. As an IT Administrator, you will apply your seasoned expertise to systems planning, security, and software management. Implement best practices to enhance system efficiency and security. Collaborate with IT teams to address challenges and implement solutions. If you are a seasoned IT professional dedicated to system optimization, we want to hear from you.",
+      "employment_type": "Part time",
+      "location": "Karlsruhe",
+      "logo": "https://hips.hearstapps.com/hmg-prod/images/3xj-pofb-400x400-1590594586.png",
+      "salary": 50000
+    },
+    {
+      "id": "31",
+      "title": "IT Recruiter",
+      "description": "Experienced IT Recruiter well-versed in various selection processes, including phone interviews and reference checks. Dedicated to identifying and onboarding top talent for organizational success. Join our team in Salzburg for a part-time role. As an IT Recruiter, you will play a crucial role in identifying and onboarding top talent. Conduct phone interviews, reference checks, and use your expertise to build a talented workforce. Collaborate with HR and hiring managers to understand recruitment needs. If you are passionate about recruitment and enjoy building high-performing teams, we want to meet you.",
+      "employment_type": "Part time",
+      "location": "Salzburg",
+      "logo": "https://asset.brandfetch.io/idhQlYRiX2/idRXC5mxqs.png",
+      "salary": 55000
+    },
+    {
+      "id": "32",
+      "title": "HR Specialist",
+      "description": "HR Specialist with in-depth knowledge of HR policies and systems. Dedicated to fostering a positive work environment and ensuring compliance with HR regulations. Committed to employee well-being. Join our team in London for a full-time role. As an HR Specialist, you will bring your in-depth knowledge of HR policies and systems. Foster a positive work environment and ensure compliance with HR regulations. Collaborate with leadership to implement employee well-being initiatives. If you are dedicated to HR excellence and employee satisfaction, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "London",
+      "logo": "https://cdn2.steamgriddb.com/thumb/8fca8a143e4356b25f6cf0ccd4a5fa5f.jpg",
+      "salary": 65000
+    },
+    {
+      "id": "33",
+      "title": "Scrum Master",
+      "description": "Agile Scrum Master experienced in facilitating the software development lifecycle. Skilled in removing impediments and ensuring efficient collaboration within cross-functional teams. Committed to delivering high-quality products. Join our team in Berlin for a full-time role. As a Scrum Master, you will leverage your agile expertise to facilitate the software development lifecycle. Remove impediments and ensure efficient collaboration within cross-functional teams. Collaborate with product owners and development teams to deliver high-quality products. If you are passionate about agile methodologies, we want to meet you.",
+      "employment_type": "Full time",
+      "location": "Berlin",
+      "logo": "https://pbs.twimg.com/profile_images/1701596865266126848/hInm6RaD_400x400.jpg",
+      "salary": 75000
+    },
+    {
+      "id": "34",
+      "title": "Graphic Designer",
+      "description": "Creative Graphic Designer with a passion for the software development lifecycle. Proficient in translating concepts into visually stunning designs. Dedicated to delivering impactful and memorable visual content. Join our team in Stockholm for a full-time role. As a Graphic Designer, you will bring your creativity to the software development lifecycle. Translate concepts into visually stunning and memorable designs. Collaborate with development teams to create impactful visual content. If you are a creative designer dedicated to delivering visual excellence, we want to hear from you.",
+      "employment_type": "Full time",
+      "location": "Stockholm",
+      "logo": "https://pbs.twimg.com/media/E2zfaSVWEAQcrCI.jpg",
+      "salary": 60000
+    }
+  ]
+}

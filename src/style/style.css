@@ -1,0 +1,659 @@
+  @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Josefin+Sans&family=Josefin+Slab:wght@600&display=swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+  header {
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: #E90000;
+    background: -moz-linear-gradient(top, #e900004e 0%, #7adecd4b 100%);
+    background: -webkit-linear-gradient(top, #e900004e 0%, #7adecd4b 100%);
+    background: linear-gradient(to bottom, #e900004e 0%, #7adecd4b 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .main-container {
+    padding: 0 20px 0;
+    background-color: rgb(248, 248, 248);
+  }
+  
+  .container {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    padding: 2px;
+    border-radius: 15%;
+  }
+
+  footer {
+    bottom: 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: #E90000;
+    background: -moz-linear-gradient(top, #e900004e 0%, #7adecd4b 100%);
+    background: -webkit-linear-gradient(top, #e900004e 0%, #7adecd4b 100%);
+    background: linear-gradient(to bottom, #e900004e 0%, #7adecd4b 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    display:flex;
+    height: 100px;
+    width: 100%;
+  }
+
+  h5 {
+    font-family: "Josefin Slab", sans-serif;
+  }
+
+  .left {
+    display: flex;
+    justify-content: left;
+    padding-left: 3%;
+  }
+
+  .right {
+    display: flex;
+    justify-content: right;
+    padding-right: 3%;
+  }
+
+  nav {
+    font-family: 'Bungee', sans-serif;
+    background: #fff;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.4);
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  nav ul li a {
+    color: rgb(16, 10, 10);
+  }
+  
+  nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+  }
+
+  nav ul li:hover {
+  border-radius: 40px;
+  animation: hoverAnim 1s ease-out forwards
+  }
+
+  .banner {
+    background-image: 
+    linear-gradient(to top right, rgba(31, 30, 30, 0.7) 10%, rgba(0,0,0, 0.70) 60%),
+    url(https://sportshub.cbsistatic.com/i/2021/09/24/e8fc9f0f-21e6-4148-9296-63d36faafd0f/netflix-disney-plus-hbo-max-hulu-streaming-1222506-4.jpg?width=1200);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .banner-button a {
+    background: lightgray;
+    border-radius: 20%;
+    color: black;
+    padding: 25px;
+    font-family: 'Bungee';
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    animation: changeTextColor 10s infinite alternate;
+    margin-bottom: 10px;
+  }
+
+  .banner-text {
+    font-family: 'Bungee', serif;
+    margin-bottom: 50px;
+    color: white;
+  }
+
+  .jobs-on-top {
+    width: 100%;
+    gap: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .jobs-on-all {
+    width: 100%;
+    gap: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .job-box {
+    box-sizing: border-box;
+    height: 400px;
+    width: 360px;
+    gap: 20px;
+    margin-bottom: 20px; 
+    padding: 20px;
+    border-radius: 10%;
+    border: 2px gray solid;
+    background-color: rgb(207, 201, 201);
+    text-align: center;
+    justify-content: space-between;
+  }
+
+  .job-logo {
+    max-height: 150px;
+    padding: 2px;
+    margin: auto;
+    margin-top: 2px;
+    border: 2px rgb(116, 164, 72) dashed;
+  }
+
+  .job-title {
+   font-family: 'Josefin Sans', sans-serif;
+   padding: 5px;
+   font-size: 15px;
+   background: rgb(194, 248, 248);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 30px;
+   border-radius: 5px;
+  }
+
+  .job-location {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 2px;
+    font-size: 10px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    border-radius: 5px;
+  }
+
+  .job-salary {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: auto;
+    width: 150px;
+    margin-top: 20px;
+  }
+
+  .lowSalary {
+    font-size: medium;  
+  }
+
+  .midSalary {
+    font-size:large  
+  }
+
+  .highSalary {
+    font-size: larger;  
+  }
+
+  .month {
+    color: rgb(146, 39, 39);
+    font-size: small;
+  }
+
+  #top-jobs-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-family: "Bungee";
+    text-align: center;
+  }
+
+  #jobs-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-family: "Bungee";
+    text-align: center;
+  }
+
+
+  .submit:hover {
+    background: #2BFF04; 
+  }
+
+  .submit:active {
+    background: #144E75;
+  }
+
+  .apply-button {
+    color: rgb(0, 5, 15); 
+    font-size: 12px; 
+    line-height: 16px; 
+    padding: 10px; 
+    border-radius: 10px; 
+    font-family: 'Josefin Sans', sans-serif; 
+    background-color: rgb(164, 159, 72);
+    box-shadow: rgb(0, 0, 0) 2px 2px; border: 2px solid rgb(28, 110, 164); 
+    cursor: pointer;
+  }
+
+  .description-button {
+    color: rgb(0, 5, 15); 
+    font-size: 12px; 
+    line-height: 16px; 
+    padding: 10px; 
+    border-radius: 10px; 
+    font-family: 'Josefin Sans', sans-serif; 
+    background-color: rgb(116, 164, 72);
+    box-shadow: rgb(0, 0, 0) 2px 2px; border: 2px solid rgb(28, 110, 164); 
+    cursor: pointer;
+  }
+
+  .apply-button:active {
+    transform: translate(2px, 2px);
+    box-shadow: none;
+  }
+
+  .description-button:active {
+    transform: translate(2px, 2px);
+    box-shadow: none;
+  }
+
+  .buttons-div {
+    display: flex;
+    justify-content: space-around;
+    margin-top:20px;
+  }
+
+  .job-details {
+    display: flex;
+    gap: 40px;
+    background-color: lightgray;
+    padding: 40px;
+    border-radius: 25px;
+    border: 5px black solid;
+    margin-top: 10px;
+  }
+
+  .job-text-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 25px;
+  }
+
+
+  .desc-logo {
+    border: 5px red solid;
+    box-shadow: 5px 4px black;
+  }
+
+  .desc-id {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 150px;
+    height: auto;
+    font-size: 14px;
+    padding: 10px; 
+    border-radius: 10px; 
+    color: rgb(205, 205, 205);
+    background-color: rgb(72, 80, 164);
+    text-align: center;
+  }
+
+  .desc-location {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 150px;
+    font-size: 14px;
+    padding: 10px; 
+    border-radius: 10px; 
+    color: rgb(205, 205, 205);
+    background-color: rgb(72, 80, 164);
+    text-align: center;
+  }
+
+  .desc-type {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 200px;
+    font-size: 14px;
+    padding: 10px; 
+    border-radius: 10px; 
+    color: rgb(205, 205, 205);
+    background-color: rgb(72, 80, 164);
+    text-align: center;
+  }
+
+  .desc-desc {    font-family: 'Josefin Sans', sans-serif;
+    width: auto;
+    font-size: 14px;
+    padding: 10px; 
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px; 
+    color: rgb(205, 205, 205);
+    background-color: rgb(72, 80, 164);
+    text-align: justify;
+  }
+
+  .salary-div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .desc-salary {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 150px;
+    height: auto;
+    font-size: 14px;
+    padding: 10px; 
+    border-radius: 10px; 
+    color: rgb(205, 205, 205);
+    background-color: rgb(72, 80, 164);
+    text-align: center;
+    margin-right: 50px;
+  }
+
+  
+  .top-job-text-div {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .application-form label {
+    font-family: 'Josefin Sans', sans-Serif;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .application-form input {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+  }
+
+  .application-form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color: lightgray;
+    padding: 40px;
+    border-radius: 25px;
+    border: 5px black solid;
+    margin-top: 10px;
+  }
+  
+  .name-div {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: space-between;
+  }
+
+  .pre-text-div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .pre-text {
+    font-size: 20px;
+    font-family: 'Josefin Slab', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    margin-bottom: 10px;
+  }
+
+  .about-divs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .about-div {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 80%;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+
+  }
+
+  .left-div {
+    background: lightsteelblue;
+    align-self: left;
+  }
+
+  .right-div {
+    background-color: lightgoldenrodyellow;
+    align-self: right;
+  }
+
+  .small {
+    width: 16px;
+    height: auto;
+    fill: palevioletred;
+  }
+
+  .hidden {
+    width: 16px;
+    height: auto;
+    visibility: hidden;
+  }
+/* Keyframes */
+
+  @keyframes changeTextColor {
+    from {color: red}
+    to {color:blue}
+  }
+
+  @keyframes hoverAnim {
+    from {background-color: rgba(0, 0, 255, 0.2); color: inherit;}
+    to {background-color: rgba(0, 0, 255, 0.4); color:red}
+  }
+
+
+/* Responsiveness */
+
+@media only screen and (max-width: 420px) {
+  .container {
+    justify-content: center;
+  }
+
+  .banner-text {
+display: none  }
+
+  nav ul {
+    text-align: center;
+    padding: 10px;
+  }
+
+  nav ul li {
+    padding: 5px 10px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .top-jobs-section {
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .job-box {
+    width: 80%;
+    max-width: none;
+    box-sizing: border-box;
+    margin: 0 0 20px;
+  }
+
+  .banner {
+    height: 200px;
+  }
+
+  #top-jobs-title {
+    margin: 5px;
+  }
+
+  .job-logo-div {
+display: none;  }
+
+  .job-details {
+    flex-direction: column;
+  }
+
+  .job-logo-div {
+    margin-bottom: 20px;
+  }
+  
+.desc-id {
+  display: none;
+}
+
+.job-text-div {
+  padding: 0px;
+  gap: 5px;
+}
+
+.top-job-text-div {
+  gap: 5px;
+}
+
+nav ul li:hover {
+  animation: none;
+  }
+  
+.name-div {
+  flex-direction: column;
+  gap: 2px;
+}
+
+}
+
+@media only screen and (min-width: 421px) and (max-width: 640px) {
+  nav ul {
+    text-align: center;
+    padding: 10px;
+  }
+
+  nav ul li {
+    padding: 5px 10px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+  }
+  .job-box {
+    width: 80%;
+  }
+  .banner-text {
+    display: none  
+}
+.job-logo-div {
+  display: none;  }
+  
+    .job-details {
+      flex-direction: column;
+    }
+  
+    .job-logo-div {
+      margin-bottom: 20px;
+    }
+    
+  .desc-id {
+    display: none;
+  }
+  
+  .job-text-div {
+    padding: 0px;
+    gap: 5px;
+  }
+  
+  .top-job-text-div {
+    gap: 5px;
+  }
+  nav ul li:hover {
+    animation: none;
+    }
+    .name-div {
+      flex-direction: column;
+      gap: 2px;
+    }
+  }
+@media only screen and (min-width: 641px) and (max-width: 844px) {
+  .job-box {
+    width: 80%;
+  }
+  .banner-text {
+    display: none  }
+    nav ul li:hover {
+      animation: none;
+      }
+      .job-logo-div {
+        display: none;  }
+        
+          .job-details {
+            flex-direction: column;
+          }
+        
+          .job-logo-div {
+            margin-bottom: 20px;
+          }
+          
+        .desc-id {
+          display: none;
+        }
+        
+        .job-text-div {
+          padding: 0px;
+          gap: 5px;
+        }
+        
+        .top-job-text-div {
+          gap: 5px;
+        }
+        
+        nav ul li:hover {
+          animation: none;
+          }
+          
+        .name-div {
+          flex-direction: column;
+          gap: 2px;
+        }
+}
+
